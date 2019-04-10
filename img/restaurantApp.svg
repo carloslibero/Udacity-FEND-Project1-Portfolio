@@ -1,0 +1,18 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="102" width="102" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="47.832457" rx="48.082453" id="svg_1" cy="50" cx="50.000001" fill-opacity="null" stroke-width="1.5" stroke="#1c72c9" fill="#fff"/>
+  <path id="svg_40" d="m73.885337,77.249088l-3.96623,2.95183l1.516132,-4.774885l-3.965337,-2.95183l4.901535,0.000915l1.30273,-4.105761l0.212508,-0.666837l1.513453,4.771683l4.902874,0l-3.967122,2.95183l1.516578,4.776257l-3.967122,-2.953202l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="0.8" stroke="#884D58" fill="none"/>
+  <path stroke="#884D58" id="svg_41" d="m27.052977,76.936817l-3.554154,2.59761l1.358612,-4.201899l-3.553353,-2.59761l4.392284,0.000805l1.167382,-3.61307l0.190429,-0.586817l1.356211,4.199082l4.393485,0l-3.554954,2.59761l1.359011,4.203106l-3.554954,-2.598818l0,0z" fill-opacity="0" stroke-width="0.8" fill="#000000"/>
+  <path id="svg_43" d="m50.885758,77.249089l-3.96623,2.95183l1.516132,-4.774885l-3.965337,-2.95183l4.901535,0.000914l1.302731,-4.10576l0.212508,-0.666838l1.513453,4.771684l4.902874,0l-3.967122,2.95183l1.516578,4.776257l-3.967122,-2.953202l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="0.8" stroke="#884D58" fill="none"/>
+  <path id="svg_45" d="m36.988039,27.833737l26.903057,0l0,0c3.524377,0 6.381442,1.343122 6.381442,2.999946c0,1.656824 -2.857067,2.999945 -6.381442,2.999945l-26.903057,0l0,0c-3.524373,0 -6.381442,-1.343121 -6.381442,-2.999945c0,-1.656825 2.857069,-2.999946 6.381442,-2.999946z" stroke-width="0.8" fill="#884D58"/>
+  <rect rx="2" id="svg_48" height="11.333126" width="38.832622" y="39.666856" x="30.750352" fill-opacity="null" stroke-opacity="null" stroke-width="0.8" stroke="null" fill="#884D58"/>
+  <ellipse ry="8.083185" rx="18.416329" id="svg_50" cy="19.333895" cx="50.000003" stroke-width="0.8" fill="#884D58"/>
+  <rect id="svg_51" height="7.666526" width="44.165858" y="19.740137" x="28.250398" stroke-width="1.5" fill="#ffffff"/>
+ </g>
+</svg>
